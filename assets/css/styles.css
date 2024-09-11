@@ -1,0 +1,54 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.main-title {
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 80px 0 10px 0;
+}
+
+.main-title i {
+    font-size: 34px;
+    padding-right: 20px;
+}
+
+.title-container {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+hr {
+    max-width: 1000px;
+    border: 1px solid #212529;
+    margin: 0 auto;
+}
+
+.input {
+    margin: 10px 0;
+}
+
+#msg {
+    color: #155724;
+    background-color: #D4EDDA;
+    border: 1px solid #C3E6CB;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
