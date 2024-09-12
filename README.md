@@ -9,7 +9,7 @@
 ## Cadastro de cliente
 ![image](https://github.com/user-attachments/assets/924c3e2c-19b9-4f63-9924-14f42ac9f065)
 
-## Atualização de cadastro de clientes
+## Atualização de cadastro de cliente
 ![image](https://github.com/user-attachments/assets/1e4c8f66-c1fb-4772-9f0f-63ba3de0bb94)
 
 ## Mobile
