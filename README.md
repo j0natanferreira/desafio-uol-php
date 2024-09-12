@@ -10,5 +10,5 @@
 ![image](https://github.com/user-attachments/assets/1e4c8f66-c1fb-4772-9f0f-63ba3de0bb94)
 
 ## Mobile
-![image](https://github.com/user-attachments/assets/aeb6be68-2caa-4ce2-ba37-0a0d78b7a213)
-![image](https://github.com/user-attachments/assets/c91c0dc2-f418-4284-88f4-e7f5c31b198b)
+![image](https://github.com/user-attachments/assets/9179673d-e74c-4232-aa64-a683c66904b1)
+![image](https://github.com/user-attachments/assets/2d57e653-3e04-4dbc-99cd-da3972388d1b)
