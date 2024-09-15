@@ -11,11 +11,11 @@
                 <input type="hidden" name="type" value="edit">
                 <input type="hidden" name="id" value="<?= $client["id"]?>">
 
-                <input type="text" name="name" class="form-control input" placeholder="Nome" value="<?= $client["name"]?>" required>
-                <input type="email" name="email" class="form-control input" value="<?= $client["email"]?>" placeholder="E-mail" required>
-                <input type="text" name="cpf" class="form-control input" value="<?= $client["cpf"]?>" placeholder="CPF" required>
-                <input type="text" name="phone" class="form-control input" value="<?= $client["phone"]?>" placeholder="Telefone" required>
-                <select name="status" class="form-select" value="<?= $client["status"]?>" required>
+                <input type="text" name="name" class="form-control input" placeholder="Nome" value="<?= $client["name"] ?? ""?>" required>
+                <input type="email" name="email" class="form-control input" value="<?= $client["email"] ?? ""?>" placeholder="E-mail" required>
+                <input type="text" name="cpf" class="form-control input" value="<?= $client["cpf"] ?? ""?>" placeholder="CPF" required>
+                <input type="text" name="phone" class="form-control input" value="<?= $client["phone"] ?? ""?>" placeholder="Telefone" required>
+                <select name="status" class="form-select" value="<?= $client["status"] ?? ""?>" required>
                     <option value="" selected disabled>-- Status --</option>
                     <option value="🟢 Ativo">🟢 Ativo</option>
                     <option value="🔴 Inativo">🔴 Inativo</option>
